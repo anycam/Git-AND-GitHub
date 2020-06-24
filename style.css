@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+
+#title{
+    text-align: center;
+    font-size: large;
+}
+
+#cont{
+    text-align: left;
+    font-size: medium;
+}
