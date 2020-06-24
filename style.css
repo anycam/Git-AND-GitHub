@@ -3,12 +3,20 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
-#title{
+#cabecera{
+    background-color: bisque;
+    color: teal;
     text-align: center;
     font-size: large;
+
+}
+
+#title{
+    text-align: center;
+    font-size: medium;
 }
 
 #cont{
     text-align: left;
-    font-size: medium;
+    font-size: small;
 }
