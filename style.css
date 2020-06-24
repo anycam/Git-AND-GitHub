@@ -2,6 +2,11 @@ body{
     background-color: aquamarine;
 }
 
+#cabecera{
+    text-align: center;
+    font-size: x-large;
+}
+
 #title{
     text-align: center;
     font-size: large;
